@@ -1,4 +1,0 @@
-[DATA]
-name="German"
-font_align="left"
-font_type="latin"
