@@ -1,4 +1,4 @@
-@What are companions?
-Companions are any follower, minion, or pet obtained through items, buffs, or skills. You can easily identify them by them having a health bar. Satellite enchants etc are not considered companions.
-@What stats affect my companions?
-Your companion's Damage is directly based on your own Damage stat, by the indicated percentages on the skill/item. Their health grows similarly to enemy Health and scale with difficulty. This is then multiplied by the "Companion Health" and "Companion Damage" stats. Companions also use your Elemental Damage, Resistances, Crit Chance, Crit Damage, Overpower, Cooldown Reduction, Attack Speed, and Movement Speed stats.
+@Was sind Gefährten?
+Begleiter sind alle Gefolgsleute, Diener oder Haustiere, die Sie durch Gegenstände, Verstärkungen oder Fertigkeiten erhalten. Sie können sie leicht daran erkennen, dass sie einen Lebenspunktebalken haben. Satellitenverzauberungen usw. werden nicht als Begleiter betrachtet.
+@Welche Werte beeinflussen meine Gefährten?
+Der Schaden Ihres Begleiters basiert direkt auf Ihrem eigenen Schadenswert, und zwar um die auf der Fertigkeit/dem Gegenstand angegebenen Prozentsätze. Ihre Gesundheit wächst ähnlich wie die des Gegners und skaliert mit der Schwierigkeit. Diese wird dann mit den Werten "Lebenspunkte des Begleiters" und "Schaden des Begleiters" multipliziert. Gefährten verwenden auch Ihre Werte für Elementarschaden, Resistenzen, Krit-Chance, Krit-Schaden, Übermacht, Abklingzeit-Verringerung, Angriffsgeschwindigkeit und Bewegungsgeschwindigkeit.

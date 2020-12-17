@@ -1,16 +1,16 @@
-@Why can't I equip some items?
-They may be too high level for you to use or they may be locked to a different class. You will normally get a message explaining why you can't equip an item when you try.
-@Why do I find items for other classes?
-You only find items of the lower rarities for other classes. High rarity items are always for your own class (Unique and higher), with some exceptions from Quests and monster-specific guaranteed drops. You can lower your chance of getting items for other classes by improving your Magic Find stat.
-@What are enchants?
-Enchants are special effects that are sometimes applied to dropped items. Enchants can grant you special bonuses or increase stats. These can be improved or replaced in the Chronicon area, when you've completed Chantie's quest.
-@Why are some enchants in orange colour text and some in white?
-Orange colour enchants are static, meaning they will always roll on this specific item. This means that the item will roll a larger total amount of enchants!
-@Why are some special texts in a red colour?
-These are Epic Enchants. They are very powerful effects unique to that specific item, so you can't find them from any other item!
-@What are sets?
-Sets are pieces of equipment that are tied together. By equipping several pieces of a set, you'll unlock the set bonuses.
-@What are set bonuses?
-Set bonuses are special effects or stats granted by wearing matching parts of a set. These can be basic such as improving a certain element, or very powerful such as removing a cooldown from a skill, drastically improving a skills damage, or changing how a mechanic works entirely.
-@What items are part of sets?
-Set items first start appearing on the Unique rarity. These can be found from level 10 and up. Legendary class sets can be found from level 30 and up. Though set items are pretty rare!
+@Warum kann ich einige Gegenstände nicht ausrüsten?
+Es kann sein, dass sie zu hoch sind, um sie zu benutzen, oder dass sie für eine andere Klasse gesperrt sind. Normalerweise erhalten Sie eine Meldung, die erklärt, warum Sie einen Gegenstand nicht ausrüsten können, wenn Sie es versuchen.
+@Warum finde ich Gegenstände für andere Klassen?
+Sie finden nur Gegenstände mit geringerem Seltenheitsgrad für andere Klassen. Gegenstände mit hohem Seltenheitsgrad sind immer für Ihre eigene Klasse (Unique und höher), mit einigen Ausnahmen von Quests und monsterspezifischen garantierten Drops. Sie können Ihre Chance, Gegenstände für andere Klassen zu erhalten, verringern, indem Sie Ihren Status "Magische Suche" verbessern.
+@Was sind Verzauberungen?
+Verzauberungen sind spezielle Effekte, die manchmal auf fallengelassene Gegenstände angewendet werden. Verzauberungen können Ihnen besondere Boni gewähren oder Ihre Werte erhöhen. Diese können im Bereich Chronicon verbessert oder ersetzt werden, wenn Sie Chanties Quest abgeschlossen haben.
+@Warum sind manche Verzauberungen in orangefarbenem Text und manche in weißem?
+Orangefarbene Verzauberungen sind statisch, d.h. sie werden immer auf diesen speziellen Gegenstand gewürfelt. Das bedeutet, dass der Gegenstand eine größere Gesamtzahl an Verzauberungen würfeln wird!
+@Warum sind einige spezielle Texte in roter Farbe?
+Dies sind epische Verzauberungen. Das sind sehr mächtige Effekte, die es nur bei diesem speziellen Gegenstand gibt, also kann man sie bei keinem anderen Gegenstand finden!
+@Was sind Sets?
+Sets sind Ausrüstungsgegenstände, die miteinander verbunden sind. Wenn du mehrere Teile eines Sets ausrüstest, schaltest du die Set-Boni frei.
+@Was sind Set-Boni?
+Set-Boni sind spezielle Effekte oder Werte, die durch das Tragen passender Teile eines Sets gewährt werden. Diese können grundlegend sein, wie z. B. die Verbesserung eines bestimmten Elements, oder sehr mächtig, wie z. B. die Aufhebung der Abklingzeit einer Fertigkeit, die drastische Verbesserung des Schadens einer Fertigkeit oder die vollständige Änderung der Funktionsweise einer Mechanik.
+@Welche Gegenstände sind Teil von Sets?
+Set-Gegenstände tauchen zuerst mit der Seltenheit "Einzigartig" auf. Diese können ab Stufe 10 und höher gefunden werden. Sets für legendäre Klassen können ab Stufe 30 gefunden werden. Allerdings sind Set-Gegenstände ziemlich selten!

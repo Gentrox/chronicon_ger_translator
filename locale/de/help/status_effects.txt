@@ -1,21 +1,21 @@
-Players cannot lose control of their character other than being pushed/pulled, or slowed/immobilized.
-Enemies can be stunned, feared, frozen, and interrupted in addition to the above effects.
-Sturdy foes and Bosses generally resist these effects.
+Spieler können nicht die Kontrolle über ihren Charakter verlieren, außer dass sie geschoben/gezogen oder verlangsamt/immobilisiert werden.
+Feinde können zusätzlich zu den oben genannten Effekten betäubt, gefürchtet, eingefroren und unterbrochen werden.
+Robuste Feinde und Bosse widerstehen diesen Effekten im Allgemeinen.
 @Knockback: 
-Knocks foes away, while being knocked they do not attempt to attack, unless they were already animating an attack.
-@Pull: 
-The reverse of Knockback, same rules apply.
-@Slow/Immobilize: 
-Slows movement by a percentage, immobilization is a slow effect of 100%. 
-@Chilled/Frozen:
-Technically same as slow and immobilize, only it usually has some additional frost-based mechanics.
-@Stun: 
-Prevents any actions form being taken and pauses all cooldown timers for the duration of the stun. Repeated stuns have diminishing returns!
-@Interrupt: 
-Interrupts an attack animation and puts the interrupted ability back on maximum cooldown.
-@Fear: 
-Causes the enemy to run around erratically, but direct damage may cancel the effect.
-@Bleed:
-Other than dealing damage, bleed effects also prevent health regeneration of enemies.
-@Burn:
-Other than dealing damage, Burn from all types of effects will spread between enemies, companions, and players in co-op. They spread once per damage tick to a random target within 1.8 meters. The spread burn only has 80% efficiency and only affects non-burning targets, so it does not refresh nor spread infinitely.
+Stößt Feinde weg, während sie niedergeschlagen werden, versuchen sie nicht anzugreifen, es sei denn, sie haben bereits einen Angriff animiert.
+Ziehen: 
+Das Gegenteil von Knockback, es gelten die gleichen Regeln.
+Verlangsamen/Immobilisieren: 
+Verlangsamt die Bewegung um einen bestimmten Prozentsatz, Ruhigstellung ist ein Verlangsamungseffekt von 100 %. 
+@Kühlen/Einfrieren:
+Technisch gesehen dasselbe wie Verlangsamen und Ruhigstellen, nur dass es in der Regel einige zusätzliche Frost-basierte Mechaniken hat.
+Betäuben: 
+Verhindert das Ausführen von Aktionen und hält alle Abklingzeiten für die Dauer der Betäubung an. Wiederholte Betäubungen haben eine abnehmende Wirkung!
+@Unterbrechen: 
+Unterbricht eine Angriffsanimation und setzt die unterbrochene Fähigkeit wieder auf maximale Abklingzeit.
+Furcht: 
+Bewirkt, dass der Gegner unberechenbar herumläuft, aber direkter Schaden kann den Effekt aufheben.
+@Bluten:
+Neben dem Verursachen von Schaden verhindern Blutungseffekte auch die Gesundheitsregeneration von Gegnern.
+@Verbrennung:
+Abgesehen davon, dass sie Schaden verursachen, verbreiten sich Verbrennungen aller Arten von Effekten auf Feinde, Begleiter und Spieler im Koop-Modus. Sie verbreiten sich einmal pro Schadenstick auf ein zufälliges Ziel innerhalb von 1,8 Metern. Die sich ausbreitende Verbrennung hat nur eine Effizienz von 80 % und wirkt sich nur auf nicht brennende Ziele aus, sie wird also nicht aufgefrischt und breitet sich nicht unendlich aus.

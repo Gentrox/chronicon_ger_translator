@@ -1,12 +1,12 @@
-@It's too damn dark!
-Increase the "Extra Ambient Light" setting in the Video settings in the Options menu!
-@I don't like all this blood, can I remove it?
-Of course, you'll find an option to turn off "Blood and Gibs" in the Gameplay settings in the Options menu!
-@These screenshakes are annoying, can I turn them down, or off?
-Yup, you'll find a "Screenshake Intensity" setting in the Gameplay settings in the Options menu!
-@Can I make the text larger?
-Yes, head to the Options menu, then Interface. You will find many options to change various types of text sizes.
-@Can I move the minimap?
-Yes, head to the Options menu and then Interface to see the alternatives.
-@Help! There are too many numbers on the screen!
-These can be toggled on or off in many different ways from the Options menu. Go to the Interface menu to find it.
+@Es ist zu verdammt dunkel!
+Erhöhen Sie die Einstellung "Zusätzliches Umgebungslicht" in den Videoeinstellungen im Menü Optionen!
+@Ich mag dieses ganze Blut nicht, kann ich es entfernen?
+Natürlich, in den Gameplay-Einstellungen im Optionsmenü finden Sie eine Option, um "Blood and Gibs" abzuschalten!
+@Diese Screenshots sind nervig, kann ich sie leiser stellen oder ausschalten?
+Ja, in den Gameplay-Einstellungen im Optionsmenü finden Sie die Einstellung "Screenshake-Intensität"!
+@Kann ich den Text größer machen?
+Ja, gehen Sie in das Menü "Optionen" und dann "Interface". Dort finden Sie viele Optionen, um verschiedene Arten von Textgrößen zu ändern.
+@Kann ich die Minimap verschieben?
+Ja, gehen Sie in das Menü "Optionen" und dann "Schnittstelle", um die Alternativen zu sehen.
+@Hilfe! Es sind zu viele Zahlen auf dem Bildschirm!
+Diese können auf viele verschiedene Arten im Menü Optionen ein- oder ausgeschaltet werden. Gehen Sie in das Menü Interface, um es zu finden.

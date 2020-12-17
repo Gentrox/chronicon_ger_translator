@@ -1,21 +1,21 @@
-@Direct Damage
-Direct damage is the damage a skill deals on impact, which in turn can trigger all your on-hit enchants, passives, etc. 
-The following defensive stats will affect direct damage:
-[list]
-Resistances
-Damage Reduction
-Barriers/Shields
-Mana Shield
-Damage Stagger
-Blocking
-Evasion
+@Direkter Schaden
+Direkter Schaden ist der Schaden, den eine Fertigkeit beim Aufprall verursacht, was wiederum alle Ihre On-Hit-Verzauberungen, Passive usw. auslösen kann. 
+Die folgenden defensiven Werte beeinflussen den direkten Schaden:
+[Liste]
+Resistenzen
+Schadensreduzierung
+Barrieren/Schilde
+Mana-Schild
+Schadenstaffelung
+Blocken
+Ausweichen
 [/list]
-@Indirect Damage
-Indirect damage is the damage that comes from a triggered enchant, passive, etc. Indirect damage may not trigger any effects at all.
-The following defensive stats will affect indirect damage:
-Mana Shield
-@Mana Shield
-There are effects that drain Mana instead of Health when taking damage. These effects are unique in the way that they are triggered by both direct and indirect damage.
-Not to be confused with regular barriers/shields, which provide temporary additional health, and is shown as a light blue bar on your healthbar.
+@Indirekter Schaden
+Indirekter Schaden ist der Schaden, der von einer ausgelösten Verzauberung, einem Passiv usw. kommt. Indirekter Schaden kann überhaupt keine Effekte auslösen.
+Die folgenden defensiven Werte wirken sich auf indirekten Schaden aus:
+Mana-Schild
+@Mana-Schild
+Es gibt Effekte, die Mana anstelle von Lebenspunkten abziehen, wenn sie Schaden nehmen. Diese Effekte sind insofern einzigartig, als dass sie sowohl durch direkten als auch durch indirekten Schaden ausgelöst werden.
+Nicht zu verwechseln mit regulären Barrieren/Schilden, die vorübergehend zusätzliche Gesundheit liefern und als hellblauer Balken auf Ihrer Gesundheitsleiste angezeigt werden.
 @Gibbing
-Gibbing is when killed enemies explode into meaty bits, eg gibs. This happens when the killing blow on an enemy hits for more than half their maximum health. Some enchants, passives, and item powers may also cause enemies to gib regardless of damage dealt.
+Beim Gibbing explodieren getötete Gegner in fleischige Teile, z. B. Gibs. Dies geschieht, wenn der tödliche Schlag auf einen Feind mehr als die Hälfte seiner maximalen Gesundheit trifft. Einige Verzauberungen, Passive und Gegenstandsfähigkeiten können auch dazu führen, dass Feinde unabhängig vom erlittenen Schaden gibben.

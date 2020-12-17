@@ -1,12 +1,12 @@
-@What are skills?
-Skills are attacks, heals, buffs, companions, auras, and passive effects that benefit your character.
-@It says on screen that I have a skill point available, what do I do?
-Open your inventory (default "I" or "back/select" on gamepads) and then go to your skill page, it's the icon in the top left of your inventory with the flashing "+" sign on it. Spend the point on whatever skill you want! Remember that you can spend points across all available trees in any way you like. Mix and match!
-@How do I use a skill after putting points in it?
-Passive (round) skills are used automatically. But all others need to be bound to a slot. To do this, right click the skill icon in the skill page (or navigate to it with your gamepad and hit Y), and then select what button/slot to bind it to from the context menu. Now close the skill page and you'll see the skill on your display. Simply press the button you have bound it to to use it.
-@I cannot bind a skill.
-Make sure you have points spent in it, and that it is not a passive skill. Passive skills are always active and does not need to be bound.
-@Can I change what buttons are used for skills?
-Yes, simply go into the Options menu, then into the Controls menu and finally into the Keybindings menu.
-@Can I replace a selected active skill in the blank slots?
-Yes, simply bring up the bind menu (right-click or press (Y) on gamepad) and select Swap in the menu. You can now swap the skill to any of the options, and the skill points spent are transferred to the new skill.
+@Was sind Fertigkeiten?
+Fertigkeiten sind Angriffe, Heilungen, Verstärkungen, Begleiter, Auren und passive Effekte, die Ihrem Charakter zugute kommen.
+Auf dem Bildschirm steht, dass ich einen Fertigkeitspunkt zur Verfügung habe, was muss ich tun?
+Öffnen Sie Ihr Inventar (standardmäßig "I" oder "Zurück/Auswählen" auf Gamepads) und gehen Sie dann auf Ihre Fertigkeitsseite, das ist das Symbol oben links in Ihrem Inventar mit dem blinkenden "+"-Zeichen darauf. Geben Sie den Punkt für eine beliebige Fertigkeit aus! Denken Sie daran, dass Sie die Punkte in allen verfügbaren Bäumen ausgeben können, wie Sie wollen. Mischen und anpassen!
+@Wie verwende ich eine Fertigkeit, nachdem ich Punkte in sie investiert habe?
+Passive (runde) Fertigkeiten werden automatisch verwendet. Aber alle anderen müssen an einen Slot gebunden werden. Klicken Sie dazu mit der rechten Maustaste auf das Fertigkeitssymbol in der Fertigkeitsseite (oder navigieren Sie mit dem Gamepad dorthin und drücken Sie Y) und wählen Sie dann im Kontextmenü aus, an welche Taste/Slot die Fertigkeit gebunden werden soll. Schließen Sie nun die Fertigkeitsseite und Sie sehen die Fertigkeit auf Ihrem Display. Drücken Sie einfach die Taste, an die Sie sie gebunden haben, um sie zu verwenden.
+@Ich kann eine Fertigkeit nicht binden.
+Vergewissern Sie sich, dass Sie Punkte für die Fertigkeit ausgegeben haben und dass es sich nicht um eine passive Fertigkeit handelt. Passive Fertigkeiten sind immer aktiv und müssen nicht gebunden werden.
+@Kann ich ändern, welche Tasten für Fertigkeiten verwendet werden?
+Ja, gehen Sie einfach in das Menü Options, dann in das Menü Controls und schließlich in das Menü Keybindings.
+@Kann ich eine ausgewählte aktive Fertigkeit in den leeren Slots ersetzen?
+Ja, rufen Sie einfach das Bindungsmenü auf (Rechtsklick oder (Y) auf dem Gamepad drücken) und wählen Sie im Menü den Punkt Swap. Sie können nun die Fertigkeit auf eine beliebige Option tauschen, und die ausgegebenen Fertigkeitspunkte werden auf die neue Fertigkeit übertragen.

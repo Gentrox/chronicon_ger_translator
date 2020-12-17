@@ -1,10 +1,10 @@
-@What are quests?
-Quests are missions for you to do. They will give you a goal and instructions how to achieve it, and when you've succeeded you'll receive the reward that is listed in your quest log. Optional quests often reward unique equipment and achievements.
-@How do I check my quest log?
-Open your inventory (default "I" on keyboard or "back" on gamepad) and navigate to the red exclamation mark in the top right of your inventory page.
-@Where do I find quests?
-The main Story quest line is obtained from Korem in the Chronicon. Other quests are often found near entrances of various areas. If a character has a quest for you it'll show an orange "!" over its head. If you already have the quest it will be a grey "?", and if the quest is ready to be completed the "?" will be orange.
-@How do I complete a quest?
-Some quests will automatically complete when the goals are met, others will update and require you to seek out someone - this is usually the person who gave you the quest. If a quest is updated, you'll receive a text prompt on the screen, and the quest text in your quest log will be updated with additional information.
-@How do I track a quest?
-Newly obtained quests will be autmatically tracked, and you can manually change which to track from the Quest Log. You can track up to 5 quests at a time.
+@Was sind Quests?
+Quests sind Missionen, die Sie erledigen müssen. Sie geben Ihnen ein Ziel und Anweisungen, wie Sie es erreichen können, und wenn Sie es geschafft haben, erhalten Sie die Belohnung, die in Ihrem Questprotokoll aufgeführt ist. Optionale Quests belohnen oft einzigartige Ausrüstung und Errungenschaften.
+@Wie überprüfe ich mein Questprotokoll?
+Öffnen Sie Ihr Inventar (Standardeinstellung "I" auf der Tastatur oder "Zurück" auf dem Gamepad) und navigieren Sie zu dem roten Ausrufezeichen oben rechts auf Ihrer Inventarseite.
+@Wo finde ich Quests?
+Die Haupt-Story-Questreihe erhalten Sie von Korem im Chronicon. Andere Quests finden Sie oft in der Nähe von Eingängen zu verschiedenen Gebieten. Wenn ein Charakter eine Quest für Sie hat, zeigt er ein oranges "!" über seinem Kopf an. Wenn Sie die Quest bereits haben, wird es ein graues "?" sein, und wenn die Quest bereit ist, abgeschlossen zu werden, wird das "?" orange sein.
+@Wie kann ich eine Quest abschließen?
+Einige Quests werden automatisch abgeschlossen, wenn die Ziele erreicht sind, andere werden aktualisiert und erfordern, dass Sie jemanden aufsuchen - dies ist normalerweise die Person, die Ihnen die Quest gegeben hat. Wenn eine Quest aktualisiert wird, erhalten Sie eine Textaufforderung auf dem Bildschirm, und der Questtext in Ihrem Questprotokoll wird mit zusätzlichen Informationen aktualisiert.
+@Wie kann ich eine Quest verfolgen?
+Neu erhaltene Quests werden automatisch verfolgt, und Sie können manuell ändern, welche im Questlog verfolgt werden sollen. Sie können bis zu 5 Quests auf einmal verfolgen.
