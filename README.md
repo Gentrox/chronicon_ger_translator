@@ -3,7 +3,8 @@ In progress
 German Translator for Chronicon 
 Check out on Steam -> https://store.steampowered.com/app/375480/Chronicon/
 
-[![IMAGE ALT TEXT HERE](https://snipboard.io/VSYMGw.jpg)](https://youtu.be/gCfQK9bs-WQ)
+[![YouTube Video](https://snipboard.io/VSYMGw.jpg)](https://youtu.be/gCfQK9bs-WQ)
+
 
 ![Alt text](https://snipboard.io/1PozKZ.jpg "Optional title")
 
