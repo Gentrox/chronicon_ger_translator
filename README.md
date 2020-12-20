@@ -16,7 +16,7 @@ Check out on Steam -> https://store.steampowered.com/app/375480/Chronicon/
 
 *INSTALLATION*
 
-- GitHub Herunterladen als Zip Datei
+- GitHub Herunterladen als Zip Datei https://github.com/Gentrox/chronicon_ger_translator/archive/main.zip
 - Zip Datei entpacken
 - Chronicon Ordner Öffnen via Steam (Lokale Datei Öffnen)
 - in Chronicon\Local Ordner umbenennen oder Verschieben aus dem Local Ordner
