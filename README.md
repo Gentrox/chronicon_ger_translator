@@ -16,6 +16,10 @@ Check out on Steam -> https://store.steampowered.com/app/375480/Chronicon/
 
 *INSTALLATION*
 
-1) DE Ordner Downloaden und Entpacken im Chronicon Ordner unter local/
-2) EN Ordner Umbennenen beispiel in "NON_EN" ohne "
-3) DE Ordner in EN Umbennenen
+- GitHub Herunterladen als Zip Datei
+- Zip Datei entpacken
+- Chronicon Ordner Öffnen via Steam (Lokale Datei Öffnen)
+- in Chronicon\Local Ordner umbenennen oder Verschieben aus dem Local Ordner
+- Entpackte Zip Datei in Chronicon\Local einfügen
+- Viel Spaß
+- Bugs melden nicht vergessen
