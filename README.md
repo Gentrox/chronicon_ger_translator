@@ -3,9 +3,10 @@ In progress
 German Translator for Chronicon 
 Check out on Steam -> https://store.steampowered.com/app/375480/Chronicon/
 
+#Video
 [![YouTube Video](https://snipboard.io/VSYMGw.jpg)](https://youtu.be/gCfQK9bs-WQ)
 
-
+#Screenshot
 ![Alt text](https://snipboard.io/1PozKZ.jpg "Optional title")
 
 ![Alt text](https://snipboard.io/fNqacl.jpg "Optional title")
@@ -13,7 +14,7 @@ Check out on Steam -> https://store.steampowered.com/app/375480/Chronicon/
 
 
 
-INSTALLATION
+##INSTALLATION
 
 1) DE Ordner Downloaden und Entpacken im Chronicon Ordner unter local/
 2) EN Ordner Umbennenen beispiel in "NON_EN" ohne "
